@@ -1,0 +1,2 @@
+﻿activation_function,epochs,ffn-hidden-dim,message-hidden-dim,depth,ffn-num-layers,test_RMSE,test_R2
+Relu,50,300,300,3,1,,
